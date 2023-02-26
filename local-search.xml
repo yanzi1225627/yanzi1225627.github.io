@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>(一)始动: 写在鸿蒙应用开发之前</title>
+    <title>始动: 写在鸿蒙应用开发之前</title>
     <link href="/post/53586.html"/>
     <url>/post/53586.html</url>
     
-    <content type="html"><![CDATA[<p>本文介绍鸿蒙架构.</p><span id="more"></span><p>测试一下</p>]]></content>
+    <content type="html"><![CDATA[<p>本文介绍鸿蒙操作系统整体架构，包括鸿蒙系统发展历程、操作系统特点、整体架构，方便大家在开发鸿蒙应用前对系统本身有较为全面的了解.</p><span id="more"></span><h3 id="发展历程"><a href="#发展历程" class="headerlink" title="发展历程"></a>发展历程</h3><p>Fda</p><h3 id="操作系统特点"><a href="#操作系统特点" class="headerlink" title="操作系统特点"></a>操作系统特点</h3><p>todo</p><h3 id="整体架构"><a href="#整体架构" class="headerlink" title="整体架构"></a>整体架构</h3><p>todo</p><h3 id="开发范式"><a href="#开发范式" class="headerlink" title="开发范式"></a>开发范式</h3><p>todo</p>]]></content>
     
     
     <categories>
@@ -21,31 +21,6 @@
     <tags>
       
       <tag>鸿蒙架构</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>111</title>
-    <link href="/post/35717.html"/>
-    <url>/post/35717.html</url>
-    
-    <content type="html"><![CDATA[<p>ddsdsd</p>]]></content>
-    
-    
-    <categories>
-      
-      <category>鸿蒙开发</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>综合</tag>
       
     </tags>
     
